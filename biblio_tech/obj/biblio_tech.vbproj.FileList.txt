@@ -1,0 +1,11 @@
+bin\Debug\biblio_tech.exe
+bin\Debug\biblio_tech.pdb
+bin\Debug\biblio_tech.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\biblio_tech.Form1.resources
+obj\Debug\biblio_tech.Form2.resources
+obj\Debug\biblio_tech.Resources.resources
+obj\Debug\biblio_tech.vbproj.GenerateResource.Cache
+obj\Debug\biblio_tech.exe
+obj\Debug\biblio_tech.xml
+obj\Debug\biblio_tech.pdb

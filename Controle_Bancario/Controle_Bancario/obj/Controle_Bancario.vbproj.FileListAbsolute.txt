@@ -1,0 +1,32 @@
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Conta.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Menu.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.MenuConta.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Movimentacao.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Resources.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.NovaConta.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Saldos.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\bin\Debug\Controle_Bancario.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\bin\Debug\Controle_Bancario.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\bin\Debug\Controle_Bancario.xml
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Form1.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.xml
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2005\Projects\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.pdb
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.exe
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.xml
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.pdb
+E:\Controle_Bancario\Controle_Bancario\bin\Debug\Controle_Bancario.exe
+E:\Controle_Bancario\Controle_Bancario\bin\Debug\Controle_Bancario.pdb
+E:\Controle_Bancario\Controle_Bancario\bin\Debug\Controle_Bancario.xml
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\ResolveAssemblyReference.cache
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Conta.resources
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Form1.resources
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Menu.resources
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.MenuConta.resources
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Movimentacao.resources
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Resources.resources
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.NovaConta.resources
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.Saldos.resources
+E:\Controle_Bancario\Controle_Bancario\obj\Debug\Controle_Bancario.vbproj.GenerateResource.Cache

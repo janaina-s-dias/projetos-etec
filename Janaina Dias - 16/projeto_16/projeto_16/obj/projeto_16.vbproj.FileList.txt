@@ -1,0 +1,12 @@
+bin\Debug\projeto_16.exe
+bin\Debug\projeto_16.pdb
+bin\Debug\projeto_16.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\projeto_16.Form1.resources
+obj\Debug\projeto_16.Resources.resources
+obj\Debug\projeto_16.vbproj.GenerateResource.Cache
+obj\Debug\projeto_16.exe
+obj\Debug\projeto_16.xml
+obj\Debug\projeto_16.pdb
+obj\Debug\projeto_16.Form2.resources
+obj\Debug\projeto_16.Form3.resources
